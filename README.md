@@ -1,9 +1,9 @@
 # Hi there, I'm Pratyush Mishra 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratyush-mishraa/
+)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/pratyushmishraaa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome)](#)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratyush_mishrraa?igsh=b2F0emxyMGp0cHcx&utm_source=qr)
 ---
 
 ## 👨‍💻 About Me
@@ -47,21 +47,7 @@ _"Growth comes from building and continuously improving."_
 
 ---
 
-## 📚 Projects
 
-### 🔹 AI-Powered CRM (In Progress)
-- Smart CRM system with automation features  
-- Tech: React, Node.js, MongoDB  
-
-### 🔹 More Projects Coming Soon...
-
----
-
-## 📊 GitHub Stats
-
-![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratyushmishraaa&show_icons=true&theme=tokyonight)
-
----
 
 ## 🤝 Let's Connect
 
