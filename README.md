@@ -10,10 +10,10 @@
 
 Software Developer and Mentor with 2+ years of experience building scalable full-stack applications and mentoring developers to achieve industry-level expertise.
 
-🛠 2+ Years Professional Experience in Full-Stack Development & Architecture. 
-🎓 Educator: Empowered 6000+ students with industry-ready skills. 
-🏢 Working at GeeksforGeeks.
-🚀 Expert in: Javascript, TypeScript, High-Level Design (HLD), and Redis.
+- 🛠 2+ Years of Professional Experience in Full-Stack Development & Architecture  
+- 🎓 Educator: Empowered 6000+ students with industry-ready skills  
+- 🏢 Associated with GeeksforGeeks  
+- 🚀 Expertise in: JavaScript, TypeScript, High-Level Design (HLD), and Redis  
 
 ---
 
