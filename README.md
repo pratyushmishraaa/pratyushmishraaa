@@ -39,13 +39,7 @@ _"Growth comes from building and continuously improving."_
 
 ---
 
-## 🚀 Current Focus
 
-- Building **industry-level projects (AI CRM, scalable apps)**
-- Improving **backend performance & architecture**
-- Learning **advanced system design concepts**
-
----
 
 
 
