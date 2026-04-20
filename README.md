@@ -8,13 +8,12 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science graduate** specializing in building **scalable full-stack applications**.  
-I focus on writing clean, efficient code and developing real-world, production-ready systems.
+Software Developer and Mentor with 2+ years of experience building scalable full-stack applications and mentoring developers to achieve industry-level expertise.
 
-- 🛠 Strong in **Full-Stack Development**
-- 🚀 Passionate about **building scalable applications**
-- 💡 Skilled in **problem-solving & system thinking**
-- ⚡ Strong foundation in **Data Structures & Algorithms (C++)**
+🛠 2+ Years Professional Experience in Full-Stack Development & Architecture. 
+🎓 Educator: Empowered 6000+ students with industry-ready skills. 
+🏢 Working at GeeksforGeeks.
+🚀 Expert in: Javascript, TypeScript, High-Level Design (HLD), and Redis.
 
 ---
 
@@ -22,10 +21,9 @@ I focus on writing clean, efficient code and developing real-world, production-r
 
 _"Growth comes from building and continuously improving."_
 
-- 🎓 Completed B.Tech in Computer Science Engineering (No Backlogs)
-- 📜 Earned multiple certifications in development & technologies
-- 💻 Built multiple full-stack real-world projects
-- 🧠 Strong grasp of **core CS fundamentals**
+⚖️ Judged **27+ Hackathons**: Evaluated innovative projects and provided technical guidance  
+- 🎤 Delivered **50+ College Sessions**: Conducted workshops on Web Development & Career Growth  
+- 🌟 Mentored **6000+ Students**: Helped aspiring developers build industry-ready skills  
 
 ---
 
