@@ -11,7 +11,7 @@
 Software Developer and Mentor with 2+ years of experience building scalable full-stack applications and mentoring developers to achieve industry-level expertise.
 
 - 🛠 2+ Years of Professional Experience in Full-Stack Development & Architecture  
-- 🎓 Educator: Empowered 6000+ students with industry-ready skills  
+- 🎓 Educator: Empowered 6000+ students & Working Professionals with industry-ready skills  
 - 🏢 Associated with GeeksforGeeks  
 - 🚀 Expertise in: JavaScript, TypeScript, High-Level Design (HLD), and Redis  
 
@@ -47,6 +47,7 @@ _"Growth comes from building and continuously improving."_
 
 - 💼 Open to **Full-Time Opportunities**
 - 📩 Reach out for **collaboration or discussions**
+- pratyushmishra287@gmail.com
 
 ---
 
