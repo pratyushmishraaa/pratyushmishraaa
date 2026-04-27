@@ -1,6 +1,6 @@
 # Hi there, I'm Pratyush Mishra 👋
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Development+Engineer || SDE;Mentor" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Mentor" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratyush-mishraa/
 )
