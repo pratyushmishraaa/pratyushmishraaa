@@ -1,54 +1,51 @@
-# Hi there, I'm Pratyush Mishra 👋
+Hi there, I'm Pratyush Mishra 👋
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Developer;Mentor" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/pratyush-mishraa/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/pratyushmishraaa"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /> </a> <a href="https://www.instagram.com/pratyush_mishrraa"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+👨‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratyush-mishraa/
-)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/pratyushmishraaa)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratyush_mishrraa?igsh=b2F0emxyMGp0cHcx&utm_source=qr)
----
+I’m a Software Developer & Mentor with a strong focus on building scalable, production-grade applications and helping developers become industry-ready.
 
-## 👨‍💻 About Me
+🛠 2+ years of experience in Full-Stack Development
+🚀 Strong in JavaScript, TypeScript, System Design (HLD), Redis
+🎓 Mentored 4000+ students & professionals
+🏢 Associated with GeeksforGeeks
+🎯 Passionate about teaching, system design, and backend architecture
+🏆 Achievements
+⚖️ Judged 27+ Hackathons
+🎤 Delivered 50+ College Workshops & Tech Sessions
+🌟 Mentored 4000+ Developers
+📈 Helped students transition to industry-level engineering roles
+🛠 Tech Stack
+🚀 Frontend
+<p> <img src="https://img.shields.io/badge/React-black?logo=react" /> <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript" /> <img src="https://img.shields.io/badge/HTML-black?logo=html5" /> <img src="https://img.shields.io/badge/CSS-black?logo=css3" /> <img src="https://img.shields.io/badge/Tailwind-black?logo=tailwindcss" /> </p>
+⚙️ Backend
+<p> <img src="https://img.shields.io/badge/Node.js-black?logo=node.js" /> <img src="https://img.shields.io/badge/Express-black?logo=express" /> </p>
+🗄 Database
+<p> <img src="https://img.shields.io/badge/MongoDB-black?logo=mongodb" /> <img src="https://img.shields.io/badge/MySQL-black?logo=mysql" /> </p>
+🧠 Core Skills
+<p> <img src="https://img.shields.io/badge/System_Design-black" /> <img src="https://img.shields.io/badge/DSA-black" /> <img src="https://img.shields.io/badge/REST_API-black" /> </p>
+🔧 Tools
+<p> <img src="https://img.shields.io/badge/Git-black?logo=git" /> <img src="https://img.shields.io/badge/Postman-black?logo=postman" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pratyushmishraaa&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushmishraaa&theme=tokyonight" /> </p>
+🚀 Featured Projects
 
-Software Developer and Mentor with 2+ years of experience building scalable full-stack applications and mentoring developers to achieve industry-level expertise.
+(You should replace these with your real projects — this section is VERY important for hiring)
 
-- 🛠 2+ Years of Professional Experience in Full-Stack Development & Architecture  
-- 🎓 Educator: Empowered 4000+ students & Working Professionals with industry-ready skills  
-- 🏢 Associated with GeeksforGeeks  
-- 🚀 Expertise in: JavaScript, TypeScript, High-Level Design (HLD), and Redis  
+🔹 Scalable Chat Application
+Real-time chat app using WebSockets, Redis, and Node.js
+🔹 Full Stack E-commerce Platform
+MERN-based app with authentication, payments, and admin dashboard
+🔹 System Design Implementations
+Designed scalable systems like URL shortener, rate limiter, etc.
+🎯 What I Bring
+Strong understanding of scalable backend systems
+Ability to write clean, production-level code
+Experience in mentoring & explaining complex concepts simply
+Focus on real-world problem solving
+🤝 Let's Connect
+💼 Open to Full-Time Opportunities
+🤝 Open for collaboration & mentorship
+📩 Email: pratyushmishra287@gmail.com
+💡 Philosophy
 
----
-
-## 🏆 Achievements & Highlights
-
-_"Growth comes from building and continuously improving."_
-
-⚖️ Judged **27+ Hackathons**: Evaluated innovative projects and provided technical guidance  
-- 🎤 Delivered **50+ College Sessions**: Conducted workshops on Web Development & Career Growth  
-- 🌟 Mentored **4000+ Students**: Helped aspiring developers build industry-ready skills  
-
----
-
-## 🛠 Tech Stack
-
-| Category            | Tools & Technologies |
-|--------------------|--------------------|
-| **Frontend**       | ![React](https://img.shields.io/badge/React-black?logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![HTML](https://img.shields.io/badge/HTML-black?logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?logo=css3) ![Tailwind](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss) |
-| **Backend**        | ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js) ![Express](https://img.shields.io/badge/Express-black?logo=express) |
-| **Database**       | ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb) ![SQL](https://img.shields.io/badge/SQL-black?logo=mysql) |
-| **Core Skills**    | ![C++](https://img.shields.io/badge/C++-black?logo=c%2B%2B) ![DSA](https://img.shields.io/badge/DSA-black) ![REST API](https://img.shields.io/badge/REST_API-black) |
-| **Tools**          | ![Git](https://img.shields.io/badge/Git-black?logo=git) ![Postman](https://img.shields.io/badge/Postman-black?logo=postman) |
-
----
-
-
-
-
-
-## 🤝 Let's Connect
-
-- 💼 Open to **Full-Time Opportunities**
-- 📩 Reach out for **collaboration or discussions**
-- pratyushmishra287@gmail.com
-
----
-
-⭐ *"Consistency + Execution = Results"*
+"Consistency + Execution = Results"
