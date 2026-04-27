@@ -1,6 +1,8 @@
 # Hi there, I'm Pratyush Mishra 👋
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+(SDE);Mentor" /> </p>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratyush-mishraa/
 )
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/pratyushmishraaa)
