@@ -36,7 +36,7 @@ _"Growth comes from building and continuously improving."_
 | **Frontend**       | ![React](https://img.shields.io/badge/React-black?logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![HTML](https://img.shields.io/badge/HTML-black?logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?logo=css3) ![Tailwind](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss) |
 | **Backend**        | ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js) ![Express](https://img.shields.io/badge/Express-black?logo=express) |
 | **Database**       | ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb) ![SQL](https://img.shields.io/badge/SQL-black?logo=mysql) |
-| **Core Skills**    | ![C++](https://img.shields.io/badge/C++-black?logo=c%2B%2B) ![DSA](https://img.shields.io/badge/DSA-black) ![REST API](https://img.shields.io/badge/REST_API-black) |
+| **Core Skills**    | ![C++](https://img.shields.io/badge/C++-black?logo=c%2B%2B)  ![REST API](https://img.shields.io/badge/REST_API-black) |
 | **Tools**          | ![Git](https://img.shields.io/badge/Git-black?logo=git) ![Postman](https://img.shields.io/badge/Postman-black?logo=postman) |
 
 ---
