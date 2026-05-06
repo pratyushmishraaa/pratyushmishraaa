@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Software Developer and Mentor with 2+ years of experience building scalable full-stack applications and mentoring developers to achieve industry-level expertise.
+Software Development Engineer || Mentor with 3+ years of experience building scalable full-stack applications and mentoring developers to achieve industry-level expertise.
 
 - 🛠 2+ Years of Professional Experience in Full-Stack Development & Architecture  
 - 🎓 Educator: Empowered 4000+ students & Working Professionals with industry-ready skills  
