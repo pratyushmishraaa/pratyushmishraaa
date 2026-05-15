@@ -13,7 +13,7 @@
 Software Development Engineer || Mentor with 3+ years of experience building scalable full-stack applications and mentoring developers to achieve industry-level expertise.
 
 - 🛠 3+ Years of Professional Experience in Full-Stack Development & Architecture  
-- 🎓 Educator: Empowered 4000+ students & Working Professionals with industry-ready skills  
+- 🎓 Educator: Empowered 6000+ students & Working Professionals with industry-ready skills  
 - 🏢 Associated with GeeksforGeeks  
 - 🚀 Expertise in: JavaScript, TypeScript, High-Level Design (HLD), and Redis  
 
