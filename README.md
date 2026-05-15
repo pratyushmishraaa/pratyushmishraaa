@@ -25,7 +25,7 @@ _"Growth comes from building and continuously improving."_
 
 ⚖️ Judged **27+ Hackathons**: Evaluated innovative projects and provided technical guidance  
 - 🎤 Delivered **50+ College Sessions**: Conducted workshops on Web Development & Career Growth  
-- 🌟 Mentored **4000+ Students**: Helped aspiring developers build industry-ready skills  
+- 🌟 Mentored **6000+ Students**: Helped aspiring developers build industry-ready skills  
 
 ---
 
