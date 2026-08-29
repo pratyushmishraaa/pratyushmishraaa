@@ -13,7 +13,7 @@
 Software Development Engineer || Mentor with 3+ years of experience building scalable full-stack applications and mentoring developers to achieve industry-level expertise.
 
 - 🛠 2+ Years of Professional Experience in Full-Stack Development & Architecture  
-- 🎓 Educator: Empowered 6000+ students & Working Professionals with industry-ready skills  
+- 🎓 Educator: Empowered 5000+ students & Working Professionals with industry-ready skills  
 - 🏢 Associated with Alta School of Technology  
 - 🚀 Expertise in: JavaScript & High-Level Design (HLD)  
 
