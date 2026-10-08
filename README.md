@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Pratyush Mishra
 
 <p align="center">
-  <img src="YOUR_ANIMATED_IMAGE_URL" alt="Software Engineer | Full-Stack Developer | Scalable Systems Engineer | Technical Mentor" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=700&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=650&lines=Software+Engineer;Full-Stack+Engineer;Scalable+Systems+Engineer;Technical+Mentor" alt="Software Engineer | Full-Stack Engineer | Scalable Systems Engineer | Technical Mentor" />
+  </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/pratyush-mishraa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -20,21 +22,21 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Software Engineer and Technical Mentor** focused on building scalable, maintainable, and production-oriented software systems.
+I'm a **Software Engineer and Technical Mentor** focused on building scalable, maintainable, and production-oriented software systems.
 
-My engineering interests span **full-stack development, backend architecture, system design, distributed systems, APIs, databases, and developer education**.
+My work spans **full-stack development, backend engineering, system design, API architecture, databases, and developer education**.
 
-I enjoy going beyond simply writing code — I focus on understanding **why a system is designed a certain way, how it scales, and how different engineering decisions affect reliability, performance, and maintainability.**
+I enjoy understanding software beyond the implementation layer — from **requirements and architecture to scalability, reliability, performance, and maintainability**.
 
-- 💻 **Software Engineering:** Full-stack web applications & backend systems
-- 🏗️ **Architecture:** System Design, HLD, API Design & scalable architectures
-- ⚡ **Frontend:** React, TypeScript, JavaScript
-- ⚙️ **Backend:** Node.js, Express.js, REST APIs
-- 🗄️ **Databases:** MongoDB, SQL
-- 🧠 **Computer Science:** Data Structures, Algorithms & problem solving
-- 👨‍🏫 **Mentoring:** 5,000+ students & working professionals
-- 🏆 **Hackathons:** Judged 32+ hackathons
-- 🎤 **Technical Sessions:** Delivered 50+ college & developer sessions
+- 💻 Building full-stack and backend applications
+- 🏗️ Designing scalable software architectures
+- ⚡ Working with React, TypeScript, Node.js and REST APIs
+- 🗄️ Designing and working with MongoDB and SQL databases
+- 🧠 Strengthening Data Structures & Algorithms
+- 🔭 Exploring System Design, HLD and scalable architectures
+- 👨‍🏫 Mentored **5,000+ students & working professionals**
+- 🏆 Judged **32+ hackathons**
+- 🎤 Delivered **50+ technical sessions**
 
 ---
 
@@ -42,9 +44,9 @@ I enjoy going beyond simply writing code — I focus on understanding **why a sy
 
 > **Don't just learn technologies. Learn how systems work.**
 
-I believe strong software engineers are built by understanding the fundamentals behind the tools they use.
+I believe good software engineering is not about knowing the maximum number of technologies.
 
-My focus is on:
+It's about understanding:
 
 ```text
 Problem
@@ -63,89 +65,91 @@ Performance
    ↓
 Scalability
    ↓
-Monitoring & Reliability
+Reliability
+   ↓
+Monitoring
 ```
 
-I’m particularly interested in designing systems that are:
+My engineering focus is on building systems that are:
 
 **Scalable · Reliable · Maintainable · Secure · Observable**
 
 ---
 
-## 🛠️ Technology & Engineering Stack
+## 🛠️ Technology Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-### Frontend Engineering
+### 🎨 Frontend Engineering
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-### Backend Engineering
+### ⚙️ Backend Engineering
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
 </p>
 
-### Architecture & Computer Science
+### 🏗️ Architecture & Computer Science
 
 <p>
-<img src="https://img.shields.io/badge/System_Design-1F2937?style=flat-square"/>
-<img src="https://img.shields.io/badge/HLD-374151?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLD-4B5563?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Structures-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Algorithms-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/API_Design-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System_Design-1F2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/HLD-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLD-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Structures-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Algorithms-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/API_Design-111827?style=flat-square" />
 </p>
 
-### Developer Tools
+### 🔧 Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## 🏗️ What I Work On
+## 🏗️ Engineering Focus
 
 ### Full-Stack Engineering
 
-Building complete web applications with a strong focus on:
+I build applications with an emphasis on:
 
-- Clean architecture
+- Clean and maintainable architecture
 - Reusable components
 - RESTful API design
 - Authentication & authorization
-- Database design
-- Performance optimization
+- Database modeling
 - Error handling
+- Performance optimization
 - Scalable backend services
 
 ### System Design
 
-I’m actively focused on understanding and designing systems involving:
+Currently focused on designing and understanding systems involving:
 
 - High-Level Design (HLD)
 - Low-Level Design (LLD)
@@ -162,83 +166,103 @@ I’m actively focused on understanding and designing systems involving:
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
-### 🍽️ Khana Khazana — Full-Stack Food Platform
+### 🍽️ Khana Khazana
 
-A full-stack restaurant and food-ordering platform built with the MERN stack.
+**Full-Stack Food Ordering & Restaurant Platform**
 
-**Architecture**
+A MERN-based platform for online food ordering and restaurant table reservations.
+
+#### Architecture
 
 ```text
 React
-  ↓
-REST API
-  ↓
+   ↓
+REST APIs
+   ↓
 Node.js + Express
-  ↓
+   ↓
 MongoDB
 ```
 
-**Key Engineering Areas**
+#### Key Features
 
-- Restaurant & food management
-- Online food ordering
-- Table reservation
-- Time-slot management
-- REST API architecture
-- Database modeling
-- Authentication & authorization
+- 🍔 Online food ordering
+- 🪑 Restaurant table reservations
+- 🕐 Time-slot management
+- 🔐 Authentication & authorization
+- 🗄️ Database-driven architecture
+- 🔌 REST API integration
+- 📦 Modular application structure
 
 ---
 
 ### 💬 Real-Time Chat Application
 
-A real-time communication platform built using the MERN ecosystem.
+**MERN-based real-time communication platform**
 
-**Engineering Focus**
+#### Engineering Focus
 
 - Real-time communication
 - Socket-based architecture
 - Authentication
 - Message persistence
 - API design
+- Client-server communication
 - Scalable application structure
 
 ---
 
 ### 🏥 City Hospital Management Platform
 
-A Django-based healthcare platform designed to simplify access to hospital services.
+**Django-based healthcare management platform**
 
-**Core Features**
+#### Core Features
 
-- Doctor appointment booking
-- Ambulance booking
-- Medical check-up registration
-- Medical query support
-- User authentication
-- Database-driven architecture
+- 👨‍⚕️ Doctor appointment booking
+- 🚑 Ambulance booking
+- 🏥 Medical check-up registration
+- 💬 Medical query support
+- 🔐 User authentication
+- 🗄️ Database-driven architecture
 
 ---
 
 ## 🏆 Achievements
 
+<p align="center">
+
 | Achievement | Impact |
-|---|---:|
+|:---|---:|
 | 👨‍🏫 Students & Professionals Mentored | **5,000+** |
 | 🏆 Hackathons Judged | **32+** |
 | 🎤 Technical Sessions Delivered | **50+** |
-| 💻 Full-Stack Development | **2+ Years** |
-| 🏗️ System Design & Architecture | **Focused Area** |
+| 💻 Full-Stack Development Experience | **2+ Years** |
+| 🏗️ System Design & Architecture | **Active Focus** |
+
+</p>
+
+---
+
+## 👨‍🏫 Mentorship & Community
+
+Beyond software development, I actively contribute to the developer community.
+
+- 👨‍🏫 Mentored **5,000+ students and working professionals**
+- 🏆 Judged **32+ hackathons**
+- 🎤 Conducted **50+ technical sessions**
+- 💡 Help developers understand concepts beyond syntax
+- 🏗️ Focus on architecture, problem solving and engineering thinking
+- 🚀 Encourage developers to think like **Software Engineers**, not just developers
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyushmishraaa&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushmishraaa&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratyushmishraaa&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushmishraaa&hide_border=true" height="180" />
 </p>
 
 <p align="center">
@@ -266,40 +290,34 @@ A Django-based healthcare platform designed to simplify access to hospital servi
 ## 🎯 Current Focus
 
 ```text
-System Design
-     │
-     ├── Distributed Systems
-     ├── Scalable Architecture
-     ├── Database Design
-     ├── API Architecture
-     └── Performance Engineering
-
-Software Engineering
-     │
-     ├── TypeScript
-     ├── Node.js
-     ├── React
-     ├── Backend Engineering
-     └── Clean Architecture
-
-Computer Science
-     │
-     ├── Data Structures
-     ├── Algorithms
-     └── Problem Solving
+                    SOFTWARE ENGINEERING
+                           │
+        ┌──────────────────┼──────────────────┐
+        ↓                  ↓                  ↓
+   System Design      Backend Engineering   CS Fundamentals
+        │                  │                  │
+        ├─ HLD             ├─ Node.js        ├─ DSA
+        ├─ LLD             ├─ TypeScript     ├─ Algorithms
+        ├─ Scalability     ├─ REST APIs      └─ Problem Solving
+        ├─ Distributed     ├─ Databases
+        │  Systems         └─ Performance
+        └─ Reliability
 ```
 
 ---
 
-## 👨‍🏫 Mentorship & Community
+## 📚 Areas I'm Exploring
 
-Beyond engineering, I actively contribute to the developer community.
-
-- 👨‍🏫 Mentored **5,000+ students and working professionals**
-- 🏆 Judged **32+ hackathons**
-- 🎤 Conducted **50+ technical sessions**
-- 💡 Help developers understand engineering concepts beyond syntax
-- 🏗️ Focus on teaching **architecture, problem solving and engineering thinking**
+- 🏗️ System Design
+- 🌐 Distributed Systems
+- ⚙️ Backend Architecture
+- 🔌 API Design
+- 🗄️ Database Design
+- ⚡ Performance Engineering
+- 🔐 Application Security
+- 📈 Scalability & Reliability
+- 🧠 Data Structures & Algorithms
+- 🔷 TypeScript & Modern JavaScript
 
 ---
 
@@ -313,16 +331,23 @@ I'm interested in opportunities involving:
 
 ## 🤝 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/pratyush-mishraa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://github.com/pratyushmishraaa">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
   <a href="mailto:pratyushmishra287@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-📩 **pratyushmishra287@gmail.com**
+<p align="center">
+  📩 <strong>pratyushmishra287@gmail.com</strong>
+</p>
 
 ---
 
