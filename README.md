@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Pratyush Mishra
 
-### `Software Engineer` · `Full-Stack Developer` · `System Design Enthusiast` · `Technical Mentor`
+<p align="center">
+  <img src="YOUR_ANIMATED_IMAGE_URL" alt="Software Engineer | Full-Stack Developer | Scalable Systems Engineer | Technical Mentor" />
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pratyush-mishraa/">
